@@ -2,5 +2,8 @@
 <p align="center">  ⚙️ My personal config files ⚙️ </p>
 
 ## Tools
+
 - tmux
 - NeoVim (LazyVim)
+- Yabai
+- skhd
